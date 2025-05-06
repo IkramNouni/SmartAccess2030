@@ -1,0 +1,13 @@
+env/
+venv/
+_pycache_/
+*.pyc
+*.pyo
+*.pyd
+.ipynb_checkpoints
+data/raw/
+*.log
+docker/*/data
+.vscode/
+.idea/
+.DS_Store
